@@ -18,9 +18,9 @@ const ComponentListing = ({featured=0}) => {
         },
         {
             'name':'headers',
-            'count':2,
+            'count':undefined,
             'icon': 'ri-layout-top-line',
-            'featured':true
+            'featured':false
         },
         {
             'name':'footers',
